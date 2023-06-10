@@ -4,7 +4,7 @@
 
 Qupathte etiketlenen resimlerimiz hazır, Scripi çağırıyoruz ve sonucumuz;
 
-![1.png](R/1.png)
+![images_readme/1.png](R/1.png)
 
 Fakat bu resimler yeterli değil, siyah Mask haline çevirmemiz lazım.
 Başka scripti çalıştıyoruz.
